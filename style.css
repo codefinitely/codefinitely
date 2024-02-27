@@ -1,5 +1,5 @@
 body {
-  background-color: #181924;
+  background-color: #ffffff;
   font-family: "Monaco", "Courier New", monospace;
 }
 
@@ -14,7 +14,7 @@ h1 {
 }
 
 p {
-  color: #b4f9f8;
+  color: #000000;
   font-size: 1rem;
   text-align: center;
 }
